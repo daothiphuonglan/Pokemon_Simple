@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokemon_Simple/static/css/main.47e929f2.css",
+    "main.js": "/Pokemon_Simple/static/js/main.fe67f85c.js",
+    "index.html": "/Pokemon_Simple/index.html",
+    "main.47e929f2.css.map": "/Pokemon_Simple/static/css/main.47e929f2.css.map",
+    "main.fe67f85c.js.map": "/Pokemon_Simple/static/js/main.fe67f85c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47e929f2.css",
+    "static/js/main.fe67f85c.js"
+  ]
+}
